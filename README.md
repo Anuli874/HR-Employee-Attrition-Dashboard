@@ -102,8 +102,12 @@ Some insights your dashboard can reveal:
 
 ## 💼 LinkedIn Portfolio Summary
 **HR Employee Attrition Dashboard — Power BI**  
-A full HR analytics dashboard analysing employee compensation, job levels, and departmental trends. Includes data cleaning, modelling, DAX measures, and interactive visuals.  
-GitHub Repo: *your repo link here*
+Excited to share my HR Employee Attrition Dashboard built in Power BI!  
+This project dives into workforce insights — analysing compensation patterns, job levels, departmental trends, and employee distribution using DAX, data modelling, and interactive visuals.
+It showcases my ability to transform raw HR data into clear, actionable insights that support smarter decision‑making.
+A clean, bold, recruiter‑ready dashboard designed to stand out in any analytics portfolio.  
+GitHub Repo: https://github.com/Anuli874/HR-Employee-Attrition-Dashboard
+
 
 
 
