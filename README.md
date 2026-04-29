@@ -14,4 +14,3 @@
 
 ### 📌 Daily Rate by Department
 ![Daily Rate by Department](Images/daily_rate_by_department.png)
-
